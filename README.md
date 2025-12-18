@@ -1,16 +1,18 @@
-## Hi there 👋
+# Euro Finance (WERC) — Wien Euro Reserve Coin
 
-<!--
-**europa-club/europa-club** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IMPORTANT: Not Circle / Not EURC
+Euro Finance (WERC) is an independent multi-chain DeFi project and is **not affiliated with Circle**.
+WERC is **not EURC**, is **not a stablecoin**, and is **not euro-pegged**. The “€” symbol is thematic branding only.
 
-Here are some ideas to get you started:
+## Official links
+- Website: https://werc.finance
+- Standalone disclosure (TrustWallet): https://werc.finance/not-circle-not-eurc.html
+- Support: support@europa-club.org
+- X: https://x.com/EuroFinanceClub
+- Telegram: https://t.me/eurofindefi
+- CoinMarketCap: https://coinmarketcap.com/currencies/euro-finance/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Networks & contracts
+- BNB Chain (BEP-20): 0xa83de2c2a9e0deafa8ee6d116958cacead2e7366
+- Arbitrum (ERC-20): 0x67e610d203bf6b57f491192cc882862ab6ab314d
+- Etherium (ERC-20): 0xFe6d3ed0be0564D5886e15c3736d660634a67326
